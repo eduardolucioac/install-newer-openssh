@@ -225,7 +225,7 @@ echo | nc 127.0.0.1 22
 
 # About
 
-okd_bare_metal 🄯 BSD-3-Clause  
+install-newer-openssh 🄯 BSD-3-Clause  
 Eduardo Lúcio Amorim Costa  
 Brazil-DF  
 https://www.linkedin.com/in/eduardo-software-livre/
