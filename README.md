@@ -234,10 +234,8 @@ https://www.linkedin.com/in/eduardo-software-livre/
 
 # Donations
 
-I'm just a regular everyday normal guy with bills and family.
-
-This is an open-source project and will continue to be so forever.
-
+I'm just a regular everyday normal guy with bills and family.  
+This is an open-source project and will continue to be so forever.  
 Please consider to deposit a donation through PayPal...
 
 [![Donation Account](./images/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=TANFQFHXMZDZE)
