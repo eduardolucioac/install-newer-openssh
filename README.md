@@ -213,8 +213,6 @@ Confirm the version via the service...
 echo | nc 127.0.0.1 22
 ```
 
-[Ref(s).: https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a ]
-
 ```
   .~.  Have fun! =D
   /V\  
@@ -222,6 +220,8 @@ echo | nc 127.0.0.1 22
 /(   )\
  ^`~'^ 
 ```
+
+[Ref(s).: https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a ]
 
 # About
 
