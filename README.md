@@ -213,14 +213,6 @@ Confirm the version via the service...
 echo | nc 127.0.0.1 22
 ```
 
-```
-  .~.  Have fun! =D
-  /V\  
- // \\ Tux
-/(   )\
- ^`~'^ 
-```
-
 [Ref(s).: https://gist.github.com/jtmoon79/745e6df63dd14b9f2d17a662179e953a ]
 
 # About
@@ -241,3 +233,11 @@ Please consider to deposit a donation through PayPal...
 [![Donation Account](./images/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=TANFQFHXMZDZE)
 
 **Support free software and my work!** ❤️👨‍👩‍👧🐧
+
+```
+  .~.  Have fun! =D
+  /V\  
+ // \\ Tux
+/(   )\
+ ^`~'^ 
+```
